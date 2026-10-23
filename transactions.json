@@ -1,0 +1,37 @@
+[
+    {
+        "type": "expense",
+        "category": "food",
+        "title": "lunch",
+        "amount": 200.0,
+        "date": "1-2-3"
+    },
+    {
+        "type": "income",
+        "category": "salary",
+        "title": "salary",
+        "amount": 3000.0,
+        "date": "1-2-3"
+    },
+    {
+        "type": "income",
+        "category": "food",
+        "title": "lunch",
+        "amount": 1000.0,
+        "date": "1-2-3"
+    },
+    {
+        "type": "expense",
+        "category": "Food",
+        "title": "Lunch",
+        "amount": 200000,
+        "date": "2026-10-22"
+    },
+    {
+        "type": "expense",
+        "category": "Food",
+        "title": "Lunch",
+        "amount": 500,
+        "date": "2026-10-22"
+    }
+]
